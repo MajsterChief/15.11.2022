@@ -1,0 +1,47 @@
+#up
+{
+    text-align: center;
+    color: blue;
+    font-size: xx-large;    letter-spacing: 50px;
+}
+#main
+{
+ font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+}
+#linki
+{
+    float: right;
+    font-size: xx-large;
+}
+#BOXSTOP
+{
+    background-color: silver;
+    position: absolute;
+    top: 160px;
+    width: 96%;
+    height: 3px;
+    left: 2%;
+}
+#PLIK2
+{
+    letter-spacing: 15px;
+    font-size: 3cm;
+    right: 10px;
+    position: absolute;
+    top: 180px;
+    color: green;
+}
+#ipsum
+{
+    color: green;
+    letter-spacing: 20px;
+    word-spacing: 15px;
+    position: absolute;
+    top: 350px;
+    font-size: 0.9cm;
+    text-decoration: line-through green;
+}
+#sripsum
+{
+    color: red;
+}
